@@ -1,5 +1,4 @@
 {
-{
 	"Print to console": {
 		"scope": "javascript,typescript",
 		"prefix": "log",
