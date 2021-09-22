@@ -1,0 +1,13 @@
+.Center {
+  justify-content: center;
+  text-align: center;
+  padding: 45vh;
+  font-family: Helvetica;
+}
+/*
+justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    padding: 45vh;
+    */
